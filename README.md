@@ -1,4 +1,4 @@
-#StudyPython
+# StudyPython
 
 This is the repository for practicing python exercises to become a Data Scientist.
 Currently I study English every day and I also study python to become a Data Scientist.
