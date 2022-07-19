@@ -11,10 +11,10 @@ I work with Data Analysis using the Qlik visualization tool.
  
  ## BmiCalculator
   - Calcule o BMI to people of according to Table:
-  - Adult with 20 years old or more: </br>
-       18.5 <=               Lower weight ;<\br>
-       18.5 > and <= 24.9 -  Normal weight ;</br>
-       25.0 >= and <= 29.9 - Pre Obese ;
-       30.0 >= and <= 34.9 - Obese Level 1 ;
-       35.0 >= and <= 39.9 - Obese Level 2 ;
-       40 >=                 Obese Level 3
+  - Adult with 20 years old or more:         </br>
+       18.5 <=               Lower weight ;  </br>
+       18.5 > and <= 24.9 -  Normal weight ; </br>
+       25.0 >= and <= 29.9 - Pre Obese ;     </br>
+       30.0 >= and <= 34.9 - Obese Level 1 ; </br>
+       35.0 >= and <= 39.9 - Obese Level 2 ; </br>
+       40 >=                 Obese Level 3   </br>
